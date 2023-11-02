@@ -1,5 +1,5 @@
-# <img src="https://raw.githubusercontent.com/byteperks/Qr-Code-Generator/main/qr_logo.PNG" height="20"> Qr-Code-Generator 
-Quickly generate QR codes for the current page via extension.
+# <img src="https://raw.githubusercontent.com/byteperks/Qr-Code-Generator/main/qr_logo.PNG" height="30"> Qr-Code-Generator 
+Quickly generate QR codes for the current page via extension or website.
 
 
 
@@ -12,6 +12,9 @@ Quick QR is free QR code generator. "Quick QR" makes it incredibly easy and fast
 - Customize Qr code Designs
 
 # Extension Screenshots
+
+Links :  [Chrome](https://chromewebstore.google.com/detail/quick-qr/kpmpojgckmegjmaefppgljnbbdakkbbl) , [Mozilla](https://addons.mozilla.org/en-US/firefox/addon/quick-qr) ,
+[Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/mgdochbphgoboiaacbkklgemlddjolic)
 
 **How it works**
 
@@ -27,6 +30,7 @@ The QR code is created from the currently active browser tab's URL.
 ![image](https://raw.githubusercontent.com/byteperks/Qr-Code-Generator/main/screenshots/extension/qr2.png)
 
 # Website Screenshots
+https://qr.byteperks.com/
 
 **1. Website**
 
